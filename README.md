@@ -50,7 +50,7 @@
 <div class="container">
 
     <!-- Your image -->
-    <img src="" 
+    <img src="ChatGPT Image Apr 13, 2026, 07_51_23 PM.png" 
          alt="">
 
 </div>
